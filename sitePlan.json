@@ -1,0 +1,49 @@
+{
+  "businessName": "Lilyk Food, Spice and Event Management",
+  "industry": "Food Manufacturing & Event Services",
+  "tone": "warm and inviting",
+  "tagline": "Your trusted partner for quality food products, authentic spices, and memorable events",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Lilyk Food, Spice and Event Management – Where Quality Meets Celebration. From our manufacturing facility in Kubwa, we bring you the finest food products and authentic Nigerian spices, while making your events truly unforgettable. Experience the taste of excellence and the joy of perfectly planned celebrations.",
+      "imagePrompt": "Vibrant photorealistic image of a modern Nigerian food manufacturing facility with colorful spice jars in the foreground, warm golden lighting, wooden spice bowls overflowing with red pepper, turmeric, and curry powder, blurred elegant event setup in background with Nigerian celebratory atmosphere, professional commercial photography style",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Lilyk Food, Spice and Event Management is a trusted name in food manufacturing and event planning, proudly serving the Bwari Area Council and beyond from our base in Kubwa Phase 4. We combine traditional Nigerian flavors with modern manufacturing standards to produce premium food products and authentic spices that enhance every meal. Our event management service ensures your special occasions – from weddings to corporate gatherings – are executed flawlessly. With years of experience and a commitment to quality, we've become the go-to choice for families and businesses who refuse to compromise on excellence.",
+      "imagePrompt": "Warm photorealistic scene showing Nigerian women in clean food manufacturing uniforms carefully packaging colorful spices, modern hygienic facility with stainless steel equipment, shelves lined with branded spice containers, soft natural lighting through large windows, authentic Nigerian business environment",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Food Manufacturing: We produce a wide range of quality food products using the finest ingredients and maintaining the highest hygiene standards. Our manufacturing process preserves the authentic taste you love while ensuring safety and consistency.\n\nPremium Spices: Our spice collection includes ground pepper, curry powder, thyme, ginger, garlic powder, and traditional Nigerian spice blends. Each product is carefully processed to retain maximum flavor and aroma, bringing restaurant-quality taste to your home kitchen.\n\nEvent Management: From intimate family gatherings to large corporate events, we handle every detail with professionalism. Our services include venue decoration, catering coordination, vendor management, and complete event execution. We specialize in Nigerian celebrations including weddings, naming ceremonies, birthday parties, and business launches.",
+      "imagePrompt": "Dynamic photorealistic grid showing three distinct scenes: 1) modern food production line with packaged goods, 2) artistic arrangement of colorful Nigerian spices in traditional clay bowls and modern glass jars with steam rising, 3) beautifully decorated Nigerian event venue with elegant table settings and cultural decor elements, professional commercial photography",
+      "layout": "cards"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Lilyk",
+      "copy": "Quality Guaranteed: Every product leaving our facility meets strict quality standards. We source the best raw materials and maintain rigorous quality control throughout our manufacturing process.\n\nAuthentic Nigerian Flavors: Our spices capture the true essence of Nigerian cuisine. We understand the importance of authentic taste and work tirelessly to deliver it.\n\nProfessional Event Planning: Your event is unique, and we treat it that way. Our experienced team handles everything from concept to execution, ensuring your celebration is stress-free and memorable.\n\nTrusted by the Community: Serving Kubwa, Bwari Area Council, and surrounding communities, we've built our reputation on reliability, quality, and customer satisfaction.\n\nAffordable Excellence: Premium quality doesn't have to break the bank. We offer competitive pricing on all our products and services.",
+      "imagePrompt": "Photorealistic image of happy Nigerian family gathered around dining table with various dishes seasoned with colorful spices, warm home atmosphere, satisfied smiles, elegant event setup visible through window in background, golden hour lighting, authentic Nigerian home interior",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to experience quality food products, authentic spices, or plan your next unforgettable event? We're here to serve you. Visit our facility in Kubwa Phase 4 or reach out through any of our contact channels. For bulk orders, special requests, or event consultations, our team is always ready to assist. Let's create something special together.",
+      "imagePrompt": "Professional photorealistic image of modern Nigerian business storefront in Kubwa area, clean signage, welcoming entrance with displayed spice products in window, friendly staff member visible, well-maintained commercial building, blue sky, contemporary Nigerian retail environment",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "07034862295, 08182273405",
+    "email": "info@lilykfoods.com",
+    "address": "Kubwa Phase 4, Bwari Area Council, Abuja, Nigeria",
+    "whatsapp": "https://wa.me/2347034862295"
+  }
+}
